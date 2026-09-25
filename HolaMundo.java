@@ -1,5 +1,10 @@
+/**
+*Muestra por pantalla la frase "¡Hola Mundo!"
+*
+*@author Sonia Fernández
+*/
 public class HolaMundo {
-	pulibc static void main(String[] args) {
-		System.out.println("Hola Mundo");
+	public static void main(String[] args) {
+		System.out.println("¡Hola Mundo!");
 	}
 }
